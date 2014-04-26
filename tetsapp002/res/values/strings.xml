@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">tetsapp002</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="numP">人数：</string>
+    <string name="yen">金額：</string>
+    <string name="People"></string>
+    <string name="calc">計算</string>
+    <string name="money"></string>
+    <string name="ypn">1人あたり</string>
+    <string name="result">XXXX</string>
+    <string name="ypn1">1人あたり\\</string>
+    <string name="People2">" "</string>
+    <string name="People3">人</string>
+    <string name="People4"></string>
+    <string name="money2"></string>
+    <string name="money3"></string>
+    <string name="moneytxt"></string>
+
+</resources>
